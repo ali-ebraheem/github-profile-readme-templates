@@ -45,8 +45,10 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali-ebraheem&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+<p>
+    <a href="https://github.com/Rizsyad"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizsyad&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="Rizsyad :: Top Langs" /></a>
+    <a href="https://github.com/Rizsyad"><img src="https://github-readme-stats.vercel.app/api?username=Rizsyad&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats" alt="Rizsyad :: Profile Stats" /></a>
+</p>
 
 <br>
 
