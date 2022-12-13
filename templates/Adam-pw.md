@@ -1,5 +1,5 @@
 <h1 align="center">Ali Ibraheem</h1>
-<h3 align="center">Mobile App Developer </h3>
+<h3 align="center">Mobile Application Developer </h3>
 
 <br>
 
@@ -12,13 +12,6 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- 📫 How to reach me **adampithewan@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
